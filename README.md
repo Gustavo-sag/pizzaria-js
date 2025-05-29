@@ -1,10 +1,10 @@
-# 🍕 Pizzaria
+#  Pizzaria
 
-## 📌 Descrição do Projeto
+##  Descrição do Projeto
 
 Este projeto é uma aplicação web simples para gerenciamento de uma pizzaria. Desenvolvido como parte de um trabalho acadêmico, o sistema permite realizar pedidos, acompanhar o estoque, visualizar o histórico de vendas, gerenciar o financeiro e recuperar informações, tudo por meio de uma interface intuitiva baseada em HTML, CSS e JavaScript.
 
-## 🚀 Instruções de Execução
+##  Instruções de Execução
 
 1. **Clone o repositório:**
 
@@ -22,21 +22,21 @@ Este projeto é uma aplicação web simples para gerenciamento de uma pizzaria. 
 
    Você pode simplesmente clicar duas vezes no arquivo `index.html` ou abrir manualmente no navegador de sua preferência.
 
-   > 💡 Não é necessário instalar dependências ou configurar servidores. O projeto é totalmente baseado em arquivos estáticos.
+   >  Não é necessário instalar dependências ou configurar servidores. O projeto é totalmente baseado em arquivos estáticos.
 
 4. **Abra o arquivo `pedidos.html` em seu navegador para entrar na área admnistrativa:**
 
    Você pode simplesmente clicar duas vezes no arquivo `pedidos.html` ou abrir manualmente no navegador de sua preferência, lá é possível ter acesso ao gestor financeiro e ao estoque.
 
-   > 💡 Não é necessário instalar dependências ou configurar servidores. O projeto é totalmente baseado em arquivos estáticos.
+   >  Não é necessário instalar dependências ou configurar servidores. O projeto é totalmente baseado em arquivos estáticos.
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **HTML5** – Estruturação das páginas.
 - **CSS3** – Estilização e layout responsivo.
 - **JavaScript** – Lógica de interação e manipulação do DOM.
 
-## 📁 Estrutura dos Arquivos
+##  Estrutura dos Arquivos
 
 ```
 pizzaria/
@@ -54,7 +54,7 @@ pizzaria/
 └── icon.png            # Ícone do site
 ```
 
-## 👥 Integrantes do Grupo
+##  Integrantes do Grupo
 
 - Pedro Kalebe  
 - Renan Costa  
